@@ -16,3 +16,9 @@ The script is comprised of 3 main steps:
 4. Finally, using the dictionaries gathered for each participant, I set up a Google Cloud project to make use of the Google Sheets API. The scope and credentials of the API needed to be configured, as well as authorizing access to the spreadsheet.
   By defining the rows and columns where each player's data will be located, as well as coding the logic for Python to find the player's name, then placing the point values on the cell to the right, the script will input the player data into the correct positions.
   At this point, the script is finished.
+
+Spreadsheet before running the program:
+![image](https://github.com/owensimpson/2024SimpsonNHLPool/assets/167917725/09c14ea6-d73e-42d0-a338-e6be99d6821c)
+
+Spreadsheet after running the program:
+![image](https://github.com/owensimpson/2024SimpsonNHLPool/assets/167917725/1d15b897-b370-4fd2-bbf8-833a76eee4ad)
