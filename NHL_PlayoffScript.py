@@ -129,6 +129,8 @@ for participant, points_dict in player_points.items():
         # Update the cell next to the player name with the points
         sheet.update_cell(cell.row, cell.col + 1, points)
 
+# Code written by Owen Simpson
+
 
 
 
